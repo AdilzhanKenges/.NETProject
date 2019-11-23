@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{A5177B83-2346-4443-8130-3BB06EEC14BE}|Default">
+  <MonoDevelop.Ide.ItemProperties.BookMart PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookMart/Models/RegisterViewModel.cs">
+    <Files>
+      <File FileName="BookMart/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="BookMart/Models/Book.cs" />
+      <File FileName="BookMart/Models/Author.cs" />
+      <File FileName="BookMart/Program.cs" />
+      <File FileName="BookMart/Startup.cs" />
+      <File FileName="BookMart/Models/Review.cs" Line="1" Column="1" />
+      <File FileName="BookMart/Models/Role.cs" Line="1" Column="1" />
+      <File FileName="BookMart/Models/User.cs" Line="1" Column="1" />
+      <File FileName="BookMart/Models/Year.cs" Line="1" Column="1" />
+      <File FileName="BookMart/Models/RegisterViewModel.cs" Line="19" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookMart" expanded="True">
+            <Node name="BookMart" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="RegisterViewModel.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
